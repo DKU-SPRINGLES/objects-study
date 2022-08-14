@@ -1,5 +1,9 @@
 # 오브젝트 스터디
 
+책 구매 [링크](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391409#N)
+
+퇴계 도서관 [링크](https://lib.dankook.ac.kr/search/detail/CATTOT000001383910?mainLink=/search/tot&briefLink=/search/tot/result?q=%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8_A_st=KWRD_A_y=0_A_x=0_A_si=TOTAL)
+
 ## 📚 시작 날짜
 
 2022.08.18 목
