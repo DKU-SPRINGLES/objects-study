@@ -72,7 +72,7 @@
 
 코드는 예측 가능하고 이해하기 쉬우며 디버깅이 용이한 동시에 유지보수가 수월해진다.
 
-```
+``` java
 if (!event.isSatisfied(schedule)) { // 쿼리
 	event.reschedule(schedule); // 명령
 }
@@ -80,7 +80,7 @@ if (!event.isSatisfied(schedule)) { // 쿼리
 
 명령과 쿼리가 분리되지 않은 안좋은 예
 
-```
+``` java
 public class Event {
 
 	public boolean isSatisfied(RecurringSchedule schedule) {
